@@ -1,3 +1,6 @@
+## Task
+original task: https://github.com/ant1kdream/g42-qa-test-task
+
 ## Notes:
 - This solution is only about checking products json's inside of hits - 10087 tests
 - checks mandatory fileds of products
